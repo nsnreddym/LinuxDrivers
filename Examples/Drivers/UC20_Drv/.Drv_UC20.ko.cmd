@@ -1,0 +1,1 @@
+cmd_/home/medha/programs/Drivers/Sample2/UC20_Drv/Drv_UC20.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/medha/programs/Drivers/Sample2/UC20_Drv/Drv_UC20.ko /home/medha/programs/Drivers/Sample2/UC20_Drv/Drv_UC20.o /home/medha/programs/Drivers/Sample2/UC20_Drv/Drv_UC20.mod.o ;  true

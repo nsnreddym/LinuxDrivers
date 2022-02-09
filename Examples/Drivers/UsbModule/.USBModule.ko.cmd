@@ -1,0 +1,1 @@
+cmd_/home/medha/programs/Drivers/Sample2/UsbModule/USBModule.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/medha/programs/Drivers/Sample2/UsbModule/USBModule.ko /home/medha/programs/Drivers/Sample2/UsbModule/USBModule.o /home/medha/programs/Drivers/Sample2/UsbModule/USBModule.mod.o ;  true

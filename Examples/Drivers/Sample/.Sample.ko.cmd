@@ -1,0 +1,1 @@
+cmd_/home/medha/programs/Drivers/Sample.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/medha/programs/Drivers/Sample.ko /home/medha/programs/Drivers/Sample.o /home/medha/programs/Drivers/Sample.mod.o ;  true

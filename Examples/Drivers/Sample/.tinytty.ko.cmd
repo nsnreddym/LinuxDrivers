@@ -1,0 +1,1 @@
+cmd_/home/medha/programs/Drivers/tinytty.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/medha/programs/Drivers/tinytty.ko /home/medha/programs/Drivers/tinytty.o /home/medha/programs/Drivers/tinytty.mod.o ;  true
